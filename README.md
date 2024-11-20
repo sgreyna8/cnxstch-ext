@@ -7,7 +7,7 @@ To set up the project, follow these steps:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/sgreyna8/cnxstch-ext.git
-    cd backend-submission
+    cd cnxstch-ext/backend-submission
     ```
 2. **Create a virtual environment:**
     ```bash
