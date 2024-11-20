@@ -24,6 +24,7 @@ To set up the project, follow these steps:
     ```
 4. **Install the dependencies:**
     ```bash
+    pip install --upgrade pip
     pip install -r requirements.txt
     ```
 
@@ -44,6 +45,11 @@ This will start the server on `http://127.0.0.1:8000`.
         **`conversation_id`** -- **`<string>`** Optional. The unique identifier for the chat conversation.
 
 Ensure that your Redis server is running and properly configured as per the environment variables or defaults specified in the `caching.py` file.
+
+TLDR: Use the command below to execute Redis if you have already have it installed:
+```
+redis-server
+```
 
 ## Enabling Redis Caching
 To install and run `redis-server`, follow these steps based on your operating system:
