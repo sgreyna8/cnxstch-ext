@@ -95,7 +95,7 @@ You should see `PONG` if Redis is running.
 
 ### On Windows
 1. **Download Redis for Windows:**
-    Visit the [Memurai website]([https://www.memurai.com/get-memurai]) to download a Redis-compatible server for Windows.
+    Visit the [Memurai website](https://www.memurai.com/get-memurai) to download a Redis-compatible server for Windows.
 2. **Install Redis:**
     Follow the installation instructions provided with the download.
 3. **Run Redis:**
@@ -116,4 +116,4 @@ This should return `"Hello, Redis!"`.
 For more advanced configurations, you can edit the Redis configuration file, typically located at `/etc/redis/redis.conf` on Linux or `/usr/local/etc/redis.conf` on macOS. After making changes, restart the Redis service to apply them.
 
 ## Running the User Interface
-Refer to the [README](../tree/main/be-code-test-main/README.md) in the `be-code-test-main` directory for instructions on running the user interface. If you are not using the `be-code-test-main` from this repository but your own `be-code-test-main`, you have to set `NEXT_PUBLIC_API_URL=http://127.0.0.1:8000` in the `.env.local` file in the root of the `be-code-test-main` directory. I have already set the `.env.local` file in the `be-code-test-main` directory for your convenience.
+Refer to the [README](https://github.com/sgreyna8/cnxstch-ext/tree/main/be-code-test-main) in the `be-code-test-main` directory for instructions on running the user interface. If you are not using the `be-code-test-main` from this repository but your own `be-code-test-main`, you have to set `NEXT_PUBLIC_API_URL=http://127.0.0.1:8000` in the `.env.local` file in the root of the `be-code-test-main` directory. I have already set the `.env.local` file in the `be-code-test-main` directory for your convenience.
