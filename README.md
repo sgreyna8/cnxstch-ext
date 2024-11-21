@@ -95,7 +95,7 @@ You should see `PONG` if Redis is running.
 
 ### On Windows
 1. **Download Redis for Windows:**
-    Visit the [Memurai website]([https://www.memurai.com/download](https://github.com/sgreyna8/cnxstch-ext?tab=readme-ov-file)) to download a Redis-compatible server for Windows.
+    Visit the [Memurai website]([https://www.memurai.com/get-memurai]) to download a Redis-compatible server for Windows.
 2. **Install Redis:**
     Follow the installation instructions provided with the download.
 3. **Run Redis:**
